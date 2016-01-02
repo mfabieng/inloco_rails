@@ -1,0 +1,7 @@
+<h1>Confirma Email</h1>
+<p>Insira um e-mail para simular uma confirmação</p>
+<%= form_tag("", method: "get") do %>
+  <%= label_tag(:email, "Email:") %>
+  <%= text_field_tag(:email) %>
+  <%= submit_tag("Confirmar email") %>
+<% end %>
