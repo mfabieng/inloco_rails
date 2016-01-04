@@ -1,3 +1,4 @@
-== README
+Autor: Moiseis Fabien Gauthier
 
-
+- A confirmação por e-mail não foi implementada por conta de servidor de email. 
+- Para simulação da confirmação entre na rota main/confirmaemail e insira o e-mail no input.
