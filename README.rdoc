@@ -2,3 +2,4 @@ Autor: Moiseis Fabien Gauthier
 
 - A confirmação por e-mail não foi implementada por conta de servidor de email. 
 - Para simulação da confirmação entre na rota main/confirmaemail e insira o e-mail no input.
+- Foi utilizado MySQL como banco de dados. Necessário criar o schema "inloco_development" no banco.
